@@ -1,0 +1,191 @@
+[
+    {
+        "title": "RAVENCORE",
+        "description": {
+            "eng": 
+                "A Discord bot that executes your commands. Add the bot to your server and create a command on the website. Commands are programmed in JavaScript. The site has a nice and user-friendly design.",
+        
+            "ukr": 
+                "Discord бот який виконує ваші команди. Додайте бота на ваш сервер, та створіть команду на сайті. Команди програмуються на мові JavaScript. Сайт має приємний да зручний дизайн."
+        },
+        "image": "img/rc.svg",
+        "link": "https://raven-core.vercel.app/",
+        "stack": [ "svelte", "blickcss", "firebase", "vercel", "discord.js", "linux" ]
+    },
+    {
+        "title": "ITPOINT",
+        "description": {
+            "eng": 
+                "An online platform for individual programming lessons. Gain invaluable experience with our teachers. Cheap and interesting lessons, a wide range of topics to learn. You can also analyze a topic separately with our specialist",
+        
+            "ukr": 
+                "Онлайн платформа для індивідуальних уроків з програмування. Отримай безцінний досвід з нашими викладачами. Дешеві та цікаві уроки, великий вибір тем для вивчення. Також ви можете окремо розібрати якусь тему з нашим спеціалістом"
+        },
+        "image": "/img/itp.svg",
+        "link": "https://www.figma.com/file/aRX6YCmzDReaI9fw7B2FaV/itpoint-design?type=design&node-id=0%3A1&mode=design&t=vVDbrBClxuCH8jmr-1",
+        "stack": [ "svelte", "blickcss", "express", "vercel" ]
+    },
+    {
+        "title": "SITERS",
+        "description": {
+            "eng": 
+                "A service where everyone can share their site. users will be able to view, like, visit, and comment on your site, and you will be able to view a small analytics.",
+        
+            "ukr": 
+                "Сервіс де кожен може поділитися своїм сайтом. користувачі зможуть переглядати, лайкати, відвідувати та коментувати ваш сайт, а ви зможете переглянути невеличку аналітику."
+        },
+        "image": "https://siters.netlify.app/img/logo.png",
+        "link": "https://siters.netlify.app/",
+        "stack": [ "svelte", "blickcss", "supabase", "netlify" ]
+    },
+    {
+        "title": "BLICKCSS",
+        "description": {
+            "eng": 
+                "A small library (~30 KB) for quick styling. The best alternative to Tailwind. Dynamic values, special attributes, ease of use, work via CDN, and this is just a small part of the possibilities. Once you try it, you won't be able to write in pure CSS.",
+
+            "ukr": 
+                "Невелика бібліотека (~30 Кб) для швидкого стилізування. Найкраща альтернатива Tailwind. Динамічні значення, спеціальні аттрибути, простота використання, робота через CDN і це маленька частина можливостей. Спробувавши раз ви не зможете писати на чистому CSS."
+        },
+        "image": "https://blick.netlify.app/logo-icon.svg",
+        "link": "https://blick.netlify.app/",
+        "stack": [ "svelte", "blickcss", "netlify", "js", "esbuild", "nodejs" ]
+    },
+    {
+        "title": "CHAT4EVERYONE",
+        "description": {
+            "eng": 
+                "It's a simple chat where everyone can express their opinions. you don't need to register, you just go in and chat",
+
+            "ukr": 
+                "Простенький чат, де кожен може висловити свою думку. реєструватися не потрібно. просто заходиш та спілкуєшся."
+        },
+        "image": "/img/c4e.png",
+        "link": "https://c4e.netlify.app/",
+        "stack": [ "svelte", "blickcss", "netlify", "supabase" ]
+    },
+    {
+        "title": "ORAVA",
+        "description": {
+            "eng": 
+                "Orava is a social network, like Facebook or Twitter, and this project is a kind of practice in creating websites with a firebase connection. You can add posts with or without photos or videos, or just text. Here you can find friends and a lot of interesting things. Join us.",
+
+            "ukr": 
+                "Орава - це соціальна мережа, як фейсбук чи твіттер, цей проєкт цe свого роду практика створювати вебсайти з підключенням бази даних (firebase). Ви можете додавати пости з фото чи відео або без них просто текст. Тут ви можете знайти друзів та багато чого цікавого. Приєднуйся."
+        },
+        "image": "https://orava.netlify.app/public/icons/icon-192x192.png",
+        "link": "https://orava.netlify.app/",
+        "stack": [ "svelte", "blickcss", "netlify", "firebase" ]
+    },
+    {
+        "title": "KINCO",
+        "description": {
+            "eng": 
+                "If you're a movie buff and like to keep a list of movies you've watched, you'll find this app useful. You can not only write down the title, but also add the year, genre, and a note about the movie. You can mark a movie as a favorite and note whether you have watched it or want to watch it. There is a sorting function, a change of theme (b/w), and you can turn off animations if you wish.",
+            "ukr": 
+                "Якщо ви кіноман та любите вести список фільмів які ви подивилися, вам буде корисна ця програма.В ній можна не тільки записувати назву, а й додавати рік, жанр та нотатку до фільму. Можна відмітити фільм як улюблений і помітити дивився ти його чи хочеш подивитися. Є функція сортування, зміна теми(ч/б), а також можна вимкнути анімації за бажанням."
+        },
+        "image": "/img/kinco.png",
+        "link": "https://ghtx280.github.io/Kinco",
+        "stack": [ "html", "css", "js", "jquery" ]
+    },
+    {
+        "title": "STEPAN",
+        "description": {
+            "eng": 
+                "Stepan is the Ukrainian alternative to Talking Ben. You can communicate with him, ask any questions, and Stepan will answer them. His database contains the following answers: 'yes', 'no', 'hahaha', 'aha', 'well', 'ok', 'what'. Stepan is currently in beta",
+            "ukr": 
+                "СТЕПАН - це українська Альтернатива Talking Ben. Ти можеш спілкуватися з ним, поставити будь-які питання, а Степан буде на них відповідати. В його базі є такі відповіді: 'да', 'нє', 'хахаха', 'ага', 'ну', 'ок', 'шо'. Наразі Степан знаходиться в бета-версії"
+        },
+        "image": "/img/stepan.png",
+        "link": "https://ghtx280.github.io/Stepan",
+        "stack": [ "html", "css", "js", "blickcss" ]
+    },
+    {
+        "title": "ZARPLATA",
+        "description": {
+            "eng": 
+                "If you are a freelancer and get paid every day, this program will be useful to you, you can record your earnings in it, and the program will indicate when it was and summarize the results for the whole month.",
+            "ukr": 
+                "Якщо ти фрилансер, та отримуєш зарплату щодня, тобі буде корисна ця програма, в ній можна записувати свій заробіток, а програма сама вкаже коли це було та вкінці підіб'є підсумки за весь місяць."
+        },
+        "image": "/img/zp.png",
+        "link": "https://ghtx280.github.io/Zarplata",
+        "stack": [ "html", "css", "js", "jquery" ]
+    },
+    {
+        "title": "CALCULATOR",
+        "description": {
+            "eng": 
+                "A retro-style calculator with a keystroke sound and vibration feedback. Will take you back to the days when no one had ever heard of the Internet",
+            "ukr": 
+                "Калькулятор в ретро стилі зі звуком натискання клавіш та вібровідгуком. Перенесе вас у ті часи коли про інтернет ще ніхто не чув"
+        },
+        "image": "/img/cl.png",
+        "link": "https://ghtx280.github.io/Retro_Calculator",
+        "stack": [ "html", "css", "js", "jquery" ]
+    },
+    {
+        "title": "PIVKO",
+        "description": {
+            "eng": 
+                "PIVKO. A simple game where you have to catch beer. There is an avatar in the bottom center that drinks a glass of beer to your health. This game is currently unfinished. I hope to get around to finishing it.",
+            "ukr": 
+                "ПІВКО. Простенька гра, де потрібно ловити пиво. Знизу по центру є аватар який випиває келих пива за ваше здоров'я. Наразі ця гра недороблена. Надіюсь дійдуть руки, щоб її доробити."
+        },
+        "image": "/img/pi.png",
+        "link": "https://ghtx280.github.io/Beer_Game",
+        "stack": [ "html", "css", "js", "jquery" ]
+    },
+    {
+        "title": "JELLY JUMP",
+        "description": {
+            "eng": 
+                "Another simple game similar to Google Dinosaur. The blue square has a very nice jumping animation, as if it were really made of jelly. It's not comfortable to play on a phone at the moment, but it's fine on a computer.",
+            "ukr": 
+                "Ще одна простенька гра схожа на гугл динозавра. Синій квадрат має дуже гарну анімацію стрибку, ніби то він справді зроблений з желе. Наразі не комфортно грати на телефоні, але на комп'ютері норм"
+        },
+        "image": "/img/jj.png",
+        "link": "https://ghtx280.github.io/Jelly_Jump/game",
+        "stack": [ "html", "css", "js", "jquery" ]
+    }
+]
+  
+
+  
+
+  
+
+
+
+
+
+
+      
+    
+
+
+
+
+
+
+
+
+
+      
+    
+
+
+
+
+
+
+
+
+
+      
+    
+
+
+
+

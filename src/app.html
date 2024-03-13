@@ -1,0 +1,58 @@
+<!-- 
+
+	hello
+
+ -->
+
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<script src="https://unpkg.com/blickcss"></script>
+		<script>
+			blick.config({
+				colors: {
+					brand: "#009966"
+				},
+				class: {
+					bg: {
+						size: {
+							_prop: "background-size: $"
+						}
+					}
+				},
+				time: true
+			})
+		</script>
+
+		<style>
+			@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+			body {
+				font-family: "Montserrat", sans-serif;
+				font-optical-sizing: auto;
+			}
+
+			* {
+				list-style: none;
+			}
+
+			*:focus {
+				outline: 2px solid #333
+			}
+
+			.title {
+				font-size: 20px;
+				font-weight: bold;
+			}
+		</style>
+
+		%sveltekit.head%
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
+</html>
