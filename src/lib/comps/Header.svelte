@@ -56,7 +56,7 @@
 
 <style>
     header {
-        background-image: url(./header.png);
+        background-image: url(/header.png);
         background-size: 100%;
     }
 
